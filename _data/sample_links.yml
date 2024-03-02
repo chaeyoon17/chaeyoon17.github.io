@@ -1,0 +1,9 @@
+docs_list_title: Links Documentation
+docs:
+
+- title: Contact
+  url: /contact/
+
+- title: Quick 
+  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+

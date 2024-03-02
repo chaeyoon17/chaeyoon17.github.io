@@ -1,0 +1,4 @@
+bundle exec jekyll serve 
+- Run Jekyll site locally
+
+bundle update github-pages
